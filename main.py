@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"version": "1.0.0", "message": "Hello from the target app"}
+    return {"version": "2.0.0", "message": "Hello from the target app"}
