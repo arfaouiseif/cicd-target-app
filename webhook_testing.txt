@@ -1,2 +1,6 @@
 is the webhook connected ?
 it threw an error earlier 
+
+
+
+fixed some error is the dockerfile of the pipeline
